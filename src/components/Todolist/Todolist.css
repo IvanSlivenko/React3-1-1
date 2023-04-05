@@ -1,0 +1,35 @@
+.TodoList{
+width: 400px;
+
+}
+
+.TodoList__item{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+   
+
+}
+.TodoList__text{
+    
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 10px;
+    color: dodgerblue;
+}
+.TodoList__Button{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    background-color: yellow;
+    color: dodgerblue;
+}

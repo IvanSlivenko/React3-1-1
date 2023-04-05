@@ -1,0 +1,10 @@
+printWidth:80
+tabWidth:2
+useTabs: false
+semi:true
+sinleQuote:true
+trailingComma:all
+bracketspecing:true
+jsxBracketSameLine:false
+arrowParents:avoid
+proseWrap:always
